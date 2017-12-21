@@ -14,7 +14,7 @@ public class New1 {
 		System.out.print(" This is  my first time java programming");
 		System.out.print("\nI,m really like this program");
 		System.out.print("\nI will always try to do my best");
-		
+		System.out.print("\nI will learn lot about java");
 		
 		
 
